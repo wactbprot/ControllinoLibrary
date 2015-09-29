@@ -1,4 +1,4 @@
-This is library for Controllino v0.8
+This is library for Controllino v0.9
 
 It contains all Controllino specific extensions to standard Arduino framework:
 	- RTC API interface
@@ -13,4 +13,5 @@ version history:
 0.6 - Tomas S - Added support for new RTC.
 0.7 - Lukas S - Fixes for RS485
 0.8 - Tomas S - Updated for Controllino MAXI, added example
+0.9 - Tomas S - RTC patch, added RTC example, corrected typo
 
